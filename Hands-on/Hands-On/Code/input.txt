@@ -1,0 +1,17 @@
+4
+user1 role1
+user1 role2
+user1 role3
+user2 role1
+4
+role1 p1 rw
+role1 p2 rwx
+role2 p3 r
+role3 p1 d
+6
+user1 p1
+user1 p2
+user1 p3
+user2 p1
+user2 p2
+user2 p3

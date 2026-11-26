@@ -1,0 +1,6 @@
+user1 p1 ---d
+user1 p2 rwx-
+user1 p3 r---
+user2 p1 rw--
+user2 p2 rwx-
+user2 p3 ----
